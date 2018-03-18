@@ -106,9 +106,9 @@ header img {
   width: 1200px;
   margin: auto;
 }
-.location h2{
-  position:relative;
-  top:150px;
+.location h2 {
+  position: relative;
+  top: 150px;
 }
 .location-item {
   display: flex;
